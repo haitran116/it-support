@@ -1,0 +1,8 @@
+
+preview excel explorer:
+  B1: Khởi động Registory Editor
+  B2: Tìm tới đường dẫn: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\PreviewHandlers
+  B3: Xóa giá trị {00020827-0000-0000-C000-000000000046} bằng cách nhấp chuột phải.
+  B4: Tạo giá trị mới bằng cách nhấp chuột phải chọn "string value" và chỉnh sửa thành giá trị: {00020827-0000-0000-C000-000000000046}
+  B5: Sửa đổi nó bằng cách nhấp chuột phải, trong ô sửa đổi thành nội dung: Microsoft Excel previewer
+  B6: Thoát ra và kiểm tra.
